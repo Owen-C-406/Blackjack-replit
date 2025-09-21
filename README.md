@@ -34,7 +34,6 @@
 
 ## 遊戲截圖  
 ![Game Screenshot](screenshot.png)  
-*(請將截圖檔案放到專案資料夾並命名為 `screenshot.png`，即可在 GitHub README 頁面顯示；或把圖片上傳到 GitHub 並使用相對路徑/完整連結)*
 
 ---
 
