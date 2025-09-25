@@ -1,4 +1,6 @@
 # wrangler.toml
 name = "blackjack-replit"
+main = "server/index.ts"
 pages_build_output_dir = "./dist"
 compatibility_date = "2025-09-25"
+
