@@ -1,0 +1,5 @@
+# wrangler.toml
+name = "blackjack-replit"                    # 專案名稱
+main = "server/index.js"                 # Workers 的進入點檔案
+
+compatibility_date = "2025-09-25"
