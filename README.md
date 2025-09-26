@@ -23,7 +23,13 @@
 ## 如何執行  
 1. 將專案 clone 或下載至本地端（或直接在 Replit 中開啟專案）  
 2. 進入專案資料夾  
-3. 在 **PowerShell**（或終端機）輸入以下指令啟動：  
+3. 在 **PowerShell**（或終端機）輸入以下指令啟動：
+   ```bash
+   npm run build
+   ```
+   ```bash
+   npm install cross-env --save-dev
+   ```   
    ```bash
    npm start
    ```  
