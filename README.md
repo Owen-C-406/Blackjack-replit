@@ -25,9 +25,6 @@
 2. 進入專案資料夾  
 3. 在 **PowerShell**（或終端機）輸入以下指令啟動：
    ```bash
-   npm run build
-   ```
-   ```bash
    npm install cross-env --save-dev
    ```   
    ```bash
