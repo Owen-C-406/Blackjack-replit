@@ -1,3 +1,6 @@
-name = "blackjack-replit"
+name = "blackjack-workers"
 compatibility_date = "2025-09-26"
 main = "server/index.ts"
+
+[site]
+bucket = "./public"
