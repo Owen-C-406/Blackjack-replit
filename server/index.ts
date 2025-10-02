@@ -70,7 +70,7 @@ app.use((req, res, next) => {
     listenOptions.reusePort = true;
   }
 
-  app.listen(listenOptions, () => {
+  server.listen(listenOptions, () => {
     log(`serving on port ${port}`);
   });
 })();
