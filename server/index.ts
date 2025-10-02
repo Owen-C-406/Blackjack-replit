@@ -63,7 +63,7 @@ app.use((req, res, next) => {
   const port = parseInt(process.env.PORT || '5000', 10);
   const listenOptions: any = {
     port,
-    host: "127.0.0.1",
+    host: "0.0.0.0",
   };
   // SO_REUSEPORT is not supported on Windows; avoid ENOTSUP
   if (process.platform !== "win32") {
